@@ -1,6 +1,6 @@
 # Hi, I'm Kate 👋
 
-I'm a Director of Digital at a global company, a mother of three, a farm owner, and a Pilates instructor. I also ship AI tools every day because I love it!
+I'm a Director of Global Measurment & Commercial Ops, a mother of three, a farm owner, and a Pilates instructor. Builder and system. All my best friends are AI 🤖
 
 ---
 
