@@ -4,11 +4,13 @@ I'm a Director of Global Measurment & Commercial Ops, a mother of three, a farm 
 
 ---
 
+## Me
+
 I build systems that make messy stuff work, whether it's data, teams, silly horses, or travel itineraries. By day, I run global digital measurement and commercial ops at Herbalife. Off the clock, I’m usually knee-deep in a side project (litigating disputes between my openclaw agents, building apps for my kids, ...), herding chickens, or teaching myself something new (Python, German, woodworking, you name it). I like turning chaos into something you can use, and I don’t bail when things get weird. If you’re building cool things or untangling big problems, let’s yap about them.
 
 ---
 
-## Stack
+## The Stack
 
 **AI & Agents**
 `Anthropic API` `Claude Code` `OpenAI API` `Gemini` `Perplexity` `Cursor` `OpenClaw`
@@ -35,7 +37,7 @@ I build systems that make messy stuff work, whether it's data, teams, silly hors
 
 ---
 
-## Find me
+## Find
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kate_Haan-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/katehaan/)
 
