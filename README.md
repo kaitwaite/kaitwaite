@@ -1,39 +1,10 @@
 # Hi, I'm Kate 👋
 
-I'm a Director of Global Measurment & Commercial Ops, a mother of three, a farm owner, and a Pilates instructor. Builder and system-lover. All my friends are AI 🤖
+I'm a Director of Global Measurment & Commercial Ops, a mother of three, a farm owner, and a Pilates instructor. Builder and system-lover. All my friends are robots 🤖
 
 ---
 
-## On AI
-
-The people who'll shape how organizations adopt AI are the ones operating it, learning the failure modes, the cost structures, the security surface area.  That's why I'm building!
-
-In the recent months I've shipped agents, apps, automations, and tools at a pace that's surprised me. I'm genuinely having so much fun. I picked up multi-agent architecture, OAuth integrations, context design, and prompt engineering by running into them and learning more.
-
-At work I'm applying the same approach at scale — connecting measurement and experience delivery into one operating system, with AI inside it as the enabler of prioritization, personalization, and orchestration.
-
----
-
-## My Career
-
-16+ years in data and digital, enthusiastically building teams and functions from zero to one.
-
-- Built Gap Inc.'s Digital Analytics function from scratch, then built the Enterprise BI Center of Excellence. My customers were 5,000+ weekly active users across a $16B brand portfolio (Old Navy, Gap, Banana Republic, Athleta). I then tackled creating Customer Data Strategy - bringing together business requirements + technical delivery.
-- Created Herbalife's global digital performance organization — measurement, insights, commercial ops, and communications platform across all global markets.
-- Scaled digital analytics capabilities supporting $8B+ in e-commerce revenue at Victoria's Secret.
-- Presented digital strategy to boards and executive leadership teams across multiple organizations.
-
-I'm at my best when the org is a blank slate and someone needs to build the system that doesn't exist yet. I design operating models, stand up new capabilities, and connect measurement to commercial outcomes across the globe. I absorb new domains fast and bring the possible into reality.
-
----
-
-## The Rest
-
-MBA in Business Analytics & Executive Management. Certified Pilates instructor with a prenatal/postpartum specialty. Certified Scrum Product Owner. Design Thinking practitioner.
-
-I run a small farm in West Michigan with horses, bees, chickens, ducks, and a dog. Studying Python and German on the side.
-
-Three young kids, a career I'm invested in, hobbies I (try to) keep showing up for. The whole structure exists to make these work..
+I build systems that make messy stuff work, whether it's data, teams, silly horses, or travel itineraries. By day, I run global digital measurement and commercial ops at Herbalife. Off the clock, I’m usually knee-deep in a side project (litigating disputes between my openclaw agents, building apps for my kids, ...), herding chickens, or teaching myself something new (Python, German, woodworking, you name it). I like turning chaos into something you can use, and I don’t bail when things get weird. If you’re building cool things or untangling big problems, let’s yap about them.
 
 ---
 
