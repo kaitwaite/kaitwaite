@@ -40,6 +40,7 @@ I build systems that make messy stuff work, whether it's data, teams, silly hors
 ## Find
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kate_Haan-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/katehaan/)
+[![Website](https://img.shields.io/badge/Website-Kate_Haan-C0614A)](http://katehaan.dev)
 
 ---
 
